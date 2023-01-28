@@ -1,0 +1,147 @@
+body {
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+
+.top-container{
+    background-color: #86A3B8;
+    position: relative;
+    padding-top: 100px;
+    
+}
+h1{
+    margin-top: 50px auto 3px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-bottom: 0;
+    color: #E8D2A6;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    line-height: 2;
+    margin-top: 0;
+    color: #E8D2A6;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#B5D5C5;
+
+    
+}
+.profile-pic{
+    padding-top: 35px;
+    border-radius: 100%;
+    height: 150px;
+}
+.skill-pic{
+    border-radius: 50%;
+    height: 25%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+hr{
+    
+  
+    
+   border: dotted black 6px;
+   border-bottom: none;
+   width: 25%;
+   
+    
+}
+/* button element */
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 26px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+   
+    
+  }
+  .contact-me{
+    padding-bottom: 15px;
+    
+  }
+  .contact-message{
+   
+    width: 40%;
+    margin: 40px auto;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.bike-pic{
+    height: 25%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 50%;
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left: 350px;
+    bottom: 300px;
+    
+}
+.top-cloud{
+    position: absolute;
+   top: 40px;
+   right: 420px;
+    
+}
+.footer-link{
+    color:#B5D5C5;
+}
+.btn{
+    color:#B5D5C5;
+}
+.bottom-container{
+    background-color:antiquewhite;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    line-height: 2;
+}
+.footer-link{
+    margin: 9px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+   color: white; 
+}
